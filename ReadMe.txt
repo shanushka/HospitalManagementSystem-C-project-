@@ -1,0 +1,1 @@
+The project Is build using C#.It uses Raptiur and Sql Server Studio(with Stored Procedure).
